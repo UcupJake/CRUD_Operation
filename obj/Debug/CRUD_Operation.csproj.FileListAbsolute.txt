@@ -1,0 +1,7 @@
+D:\Visual Studio 2017\Projects\CRUD_Operation\bin\CRUD_Operation.dll.config
+D:\Visual Studio 2017\Projects\CRUD_Operation\bin\CRUD_Operation.dll
+D:\Visual Studio 2017\Projects\CRUD_Operation\bin\CRUD_Operation.pdb
+D:\Visual Studio 2017\Projects\CRUD_Operation\obj\Debug\CRUD_Operation.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\CRUD_Operation\obj\Debug\CRUD_Operation.dll
+D:\Visual Studio 2017\Projects\CRUD_Operation\obj\Debug\CRUD_Operation.pdb
